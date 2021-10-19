@@ -21,15 +21,134 @@ const DataTable = () => {
           </tr>
           <tr>
             <td>24/09/2021</td>
-            <td>Isabel Fuxe</td>
-            <td>2</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
             <td>25</td>
             <td>1100 USD</td>
           </tr>
           <tr>
-            <td>01/01/2021</td>
-            <td>Rossana Tony</td>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
             <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
+            <td>25</td>
+            <td>1100 USD</td>
+          </tr>
+          <tr>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
+            <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
+            <td>25</td>
+            <td>1100 USD</td>
+          </tr>
+          <tr>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
+            <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
+            <td>25</td>
+            <td>1100 USD</td>
+          </tr>
+          <tr>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
+            <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
+            <td>25</td>
+            <td>1100 USD</td>
+          </tr>
+          <tr>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
+            <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
+            <td>25</td>
+            <td>1100 USD</td>
+          </tr>
+          <tr>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
+            <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
+            <td>25</td>
+            <td>1100 USD</td>
+          </tr>
+          <tr>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
+            <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
+            <td>25</td>
+            <td>1100 USD</td>
+          </tr>
+          <tr>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
+            <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
+            <td>25</td>
+            <td>1100 USD</td>
+          </tr>
+          <tr>
+            <td>24/10/2021</td>
+            <td>Albertina Almeida</td>
+            <td>3</td>
+            <td>25</td>
+            <td>1500 USD</td>
+          </tr>
+          <tr>
+            <td>24/09/2021</td>
+            <td>Lucas Almeida</td>
+            <td>34</td>
             <td>25</td>
             <td>1100 USD</td>
           </tr>
