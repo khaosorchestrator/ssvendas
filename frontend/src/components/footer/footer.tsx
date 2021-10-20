@@ -1,4 +1,4 @@
-const Footer = () => {
+export const Footer = () => {
   return (
 
     <footer className="footer mt-auto d-flex justify-content-between align-items-center py-3 border-top bg-dark">
@@ -32,4 +32,3 @@ const Footer = () => {
   );
 }
 
-export default Footer;
