@@ -6,7 +6,7 @@ const Footer = () => {
         <a href="/" className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
           <svg className="bi" width="30" height="24"><use xlinkHref="#bootstrap" /></svg>
         </a>
-        <span className="text-muted">&copy; 2021 Serviço Só Vendas, Lda</span>
+        <span className="text-muted">&copy; 2021 Só Vendas, Lda</span>
       </div>
 
       <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
