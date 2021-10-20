@@ -1,4 +1,4 @@
-package com.springdev.ssvendas.domain;
+package com.springdev.ssvendas.entities;
 
 import lombok.*;
 
